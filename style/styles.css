@@ -2,20 +2,22 @@ body{
     background-color: rgb(247, 214, 192);
 }
 
-p{
-    color:blueviolet;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    
+div{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
+
 
 .description{
     color: aliceblue;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 300px;
-}
-
-div{
     background-color: brown;
     width: fit-content;
 }
+
+

@@ -1,3 +1,21 @@
-.body{
-    background-color: rgb(160, 131, 86);
+body{
+    background-color: rgb(247, 214, 192);
+}
+
+p{
+    color:blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.description{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300px;
+}
+
+div{
+    background-color: brown;
+    width: fit-content;
 }

@@ -2,6 +2,10 @@ body{
     background-color: rgb(247, 247, 247);
 }
 
+* {
+    border: 2px solid red
+}
+
 
 .number {
     background-color: rgb(233, 200, 200);

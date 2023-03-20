@@ -41,3 +41,9 @@ body{
 .eat-me {
     background-color: yellow;
 }
+
+.button.linkvideo {
+    background-color: rgb(15, 224, 196);
+    color: rgb(255, 136, 0);
+
+}
